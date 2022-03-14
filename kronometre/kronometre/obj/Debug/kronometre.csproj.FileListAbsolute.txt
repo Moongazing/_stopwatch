@@ -1,0 +1,9 @@
+C:\Users\Moongazing\source\repos\kronometre\kronometre\bin\Debug\kronometre.exe.config
+C:\Users\Moongazing\source\repos\kronometre\kronometre\bin\Debug\kronometre.exe
+C:\Users\Moongazing\source\repos\kronometre\kronometre\bin\Debug\kronometre.pdb
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.exe
+C:\Users\Moongazing\source\repos\kronometre\kronometre\obj\Debug\kronometre.pdb
